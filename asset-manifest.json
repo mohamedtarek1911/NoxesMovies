@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/NoxesMovies/static/css/main.22183dbc.css",
+    "main.js": "/NoxesMovies/static/js/main.c6bfd3da.js",
+    "static/js/787.5d5ea81f.chunk.js": "/NoxesMovies/static/js/787.5d5ea81f.chunk.js",
+    "static/media/fa-solid-900.ttf": "/NoxesMovies/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/fa-brands-400.ttf": "/NoxesMovies/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/NoxesMovies/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/NoxesMovies/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/fa-regular-400.ttf": "/NoxesMovies/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/fa-regular-400.woff2": "/NoxesMovies/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/fa-v4compatibility.ttf": "/NoxesMovies/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/NoxesMovies/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/NoxesMovies/index.html",
+    "main.22183dbc.css.map": "/NoxesMovies/static/css/main.22183dbc.css.map",
+    "main.c6bfd3da.js.map": "/NoxesMovies/static/js/main.c6bfd3da.js.map",
+    "787.5d5ea81f.chunk.js.map": "/NoxesMovies/static/js/787.5d5ea81f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22183dbc.css",
+    "static/js/main.c6bfd3da.js"
+  ]
+}
