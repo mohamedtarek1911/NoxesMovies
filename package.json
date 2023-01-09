@@ -1,7 +1,7 @@
 {
   "name": "movieapp",
   "version": "0.1.0",
-  "homepage": "https://mohamedtarek1911.github.io/Noxe-",
+  "homepage": "https://mohamedtarek1911.github.io/NoxesMovies",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.2.1",
